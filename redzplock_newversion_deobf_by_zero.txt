@@ -1,4 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/condimemay-dot/KonKac/refs/heads/main/FastAttack.txt"))()
+
 Settings = Settings or {}
 
 local Players = game:GetService("Players")
